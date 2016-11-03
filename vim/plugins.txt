@@ -1,0 +1,13 @@
+https://github.com/VundleVim/Vundle.vim
+https://github.com/tpope/vim-surround
+https://github.com/scrooloose/nerdcommenter
+https://github.com/scrooloose/syntastic
+https://github.com/mileszs/ack.vim
+https://github.com/Valloric/YouCompleteMe
+https://github.com/jiangmiao-auto-pairs
+https://github.com/xolox/vim-easytags
+https://github.com/xolox/vim-misc
+https://github.com/fholgado/minibufexpl.vim
+https://github.com/ctrlpvim/ctrlp.vim
+https://github.com/vim-airline/vim-airline
+https://github.com/vim-airline/vim-airline-themes
